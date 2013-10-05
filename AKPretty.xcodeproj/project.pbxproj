@@ -1,0 +1,534 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		046A779417FF9D5F005C646B /* AKPretty-Universal */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 046A779517FF9D5F005C646B /* Build configuration list for PBXAggregateTarget "AKPretty-Universal" */;
+			buildPhases = (
+				046A779817FF9DCA005C646B /* ShellScript */,
+			);
+			dependencies = (
+			);
+			name = "AKPretty-Universal";
+			productName = "AKPretty-Universal";
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		046A776317FF9B1D005C646B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 046A776217FF9B1D005C646B /* Foundation.framework */; };
+		046A776817FF9B1D005C646B /* AKPretty.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 046A776717FF9B1D005C646B /* AKPretty.h */; };
+		046A776A17FF9B1D005C646B /* AKPretty.m in Sources */ = {isa = PBXBuildFile; fileRef = 046A776917FF9B1D005C646B /* AKPretty.m */; };
+		046A777117FF9B1E005C646B /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 046A777017FF9B1E005C646B /* XCTest.framework */; };
+		046A777217FF9B1E005C646B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 046A776217FF9B1D005C646B /* Foundation.framework */; };
+		046A777417FF9B1E005C646B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 046A777317FF9B1E005C646B /* UIKit.framework */; };
+		046A777717FF9B1E005C646B /* libAKPretty.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 046A775F17FF9B1D005C646B /* libAKPretty.a */; };
+		046A777D17FF9B1E005C646B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 046A777B17FF9B1E005C646B /* InfoPlist.strings */; };
+		046A777F17FF9B1E005C646B /* AKPrettyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 046A777E17FF9B1E005C646B /* AKPrettyTests.m */; };
+		046A778D17FF9C01005C646B /* AKPretty0.m in Sources */ = {isa = PBXBuildFile; fileRef = 046A778C17FF9C01005C646B /* AKPretty0.m */; };
+		046A779017FF9C1E005C646B /* AKGEPretty.m in Sources */ = {isa = PBXBuildFile; fileRef = 046A778F17FF9C1E005C646B /* AKGEPretty.m */; };
+		046A779317FF9C29005C646B /* AKSimplePretty.m in Sources */ = {isa = PBXBuildFile; fileRef = 046A779217FF9C29005C646B /* AKSimplePretty.m */; };
+		046A779A17FF9E26005C646B /* AKPretty.h in Headers */ = {isa = PBXBuildFile; fileRef = 046A776717FF9B1D005C646B /* AKPretty.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		046A779B17FF9E26005C646B /* AKPretty0.h in Headers */ = {isa = PBXBuildFile; fileRef = 046A778B17FF9C01005C646B /* AKPretty0.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		046A779C17FF9E26005C646B /* AKGEPretty.h in Headers */ = {isa = PBXBuildFile; fileRef = 046A778E17FF9C1E005C646B /* AKGEPretty.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		046A779D17FF9E26005C646B /* AKSimplePretty.h in Headers */ = {isa = PBXBuildFile; fileRef = 046A779117FF9C29005C646B /* AKSimplePretty.h */; settings = {ATTRIBUTES = (Public, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		046A777517FF9B1E005C646B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 046A775717FF9B1D005C646B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 046A775E17FF9B1D005C646B;
+			remoteInfo = AKPretty;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		046A775D17FF9B1D005C646B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+				046A776817FF9B1D005C646B /* AKPretty.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		046A775F17FF9B1D005C646B /* libAKPretty.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libAKPretty.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		046A776217FF9B1D005C646B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		046A776617FF9B1D005C646B /* AKPretty-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AKPretty-Prefix.pch"; sourceTree = "<group>"; };
+		046A776717FF9B1D005C646B /* AKPretty.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AKPretty.h; sourceTree = "<group>"; };
+		046A776917FF9B1D005C646B /* AKPretty.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AKPretty.m; sourceTree = "<group>"; };
+		046A776F17FF9B1E005C646B /* AKPrettyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AKPrettyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		046A777017FF9B1E005C646B /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		046A777317FF9B1E005C646B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		046A777A17FF9B1E005C646B /* AKPrettyTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AKPrettyTests-Info.plist"; sourceTree = "<group>"; };
+		046A777C17FF9B1E005C646B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		046A777E17FF9B1E005C646B /* AKPrettyTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AKPrettyTests.m; sourceTree = "<group>"; };
+		046A778A17FF9BF1005C646B /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		046A778B17FF9C01005C646B /* AKPretty0.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AKPretty0.h; sourceTree = "<group>"; };
+		046A778C17FF9C01005C646B /* AKPretty0.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AKPretty0.m; sourceTree = "<group>"; };
+		046A778E17FF9C1E005C646B /* AKGEPretty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AKGEPretty.h; sourceTree = "<group>"; };
+		046A778F17FF9C1E005C646B /* AKGEPretty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AKGEPretty.m; sourceTree = "<group>"; };
+		046A779117FF9C29005C646B /* AKSimplePretty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AKSimplePretty.h; sourceTree = "<group>"; };
+		046A779217FF9C29005C646B /* AKSimplePretty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AKSimplePretty.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		046A775C17FF9B1D005C646B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				046A776317FF9B1D005C646B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		046A776C17FF9B1E005C646B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				046A777117FF9B1E005C646B /* XCTest.framework in Frameworks */,
+				046A777417FF9B1E005C646B /* UIKit.framework in Frameworks */,
+				046A777217FF9B1E005C646B /* Foundation.framework in Frameworks */,
+				046A777717FF9B1E005C646B /* libAKPretty.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		046A775617FF9B1D005C646B = {
+			isa = PBXGroup;
+			children = (
+				046A776417FF9B1D005C646B /* AKPretty */,
+				046A777817FF9B1E005C646B /* AKPrettyTests */,
+				046A776117FF9B1D005C646B /* Frameworks */,
+				046A776017FF9B1D005C646B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		046A776017FF9B1D005C646B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				046A775F17FF9B1D005C646B /* libAKPretty.a */,
+				046A776F17FF9B1E005C646B /* AKPrettyTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		046A776117FF9B1D005C646B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				046A776217FF9B1D005C646B /* Foundation.framework */,
+				046A777017FF9B1E005C646B /* XCTest.framework */,
+				046A777317FF9B1E005C646B /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		046A776417FF9B1D005C646B /* AKPretty */ = {
+			isa = PBXGroup;
+			children = (
+				046A776717FF9B1D005C646B /* AKPretty.h */,
+				046A776917FF9B1D005C646B /* AKPretty.m */,
+				046A778917FF9BBF005C646B /* Sources */,
+				046A778817FF9BBA005C646B /* Resources */,
+				046A776517FF9B1D005C646B /* Supporting Files */,
+			);
+			path = AKPretty;
+			sourceTree = "<group>";
+		};
+		046A776517FF9B1D005C646B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				046A776617FF9B1D005C646B /* AKPretty-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		046A777817FF9B1E005C646B /* AKPrettyTests */ = {
+			isa = PBXGroup;
+			children = (
+				046A777E17FF9B1E005C646B /* AKPrettyTests.m */,
+				046A777917FF9B1E005C646B /* Supporting Files */,
+			);
+			path = AKPrettyTests;
+			sourceTree = "<group>";
+		};
+		046A777917FF9B1E005C646B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				046A777A17FF9B1E005C646B /* AKPrettyTests-Info.plist */,
+				046A777B17FF9B1E005C646B /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		046A778817FF9BBA005C646B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				046A778A17FF9BF1005C646B /* Info.plist */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		046A778917FF9BBF005C646B /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				046A778B17FF9C01005C646B /* AKPretty0.h */,
+				046A778C17FF9C01005C646B /* AKPretty0.m */,
+				046A778E17FF9C1E005C646B /* AKGEPretty.h */,
+				046A778F17FF9C1E005C646B /* AKGEPretty.m */,
+				046A779117FF9C29005C646B /* AKSimplePretty.h */,
+				046A779217FF9C29005C646B /* AKSimplePretty.m */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		046A779917FF9E1C005C646B /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				046A779A17FF9E26005C646B /* AKPretty.h in Headers */,
+				046A779B17FF9E26005C646B /* AKPretty0.h in Headers */,
+				046A779C17FF9E26005C646B /* AKGEPretty.h in Headers */,
+				046A779D17FF9E26005C646B /* AKSimplePretty.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		046A775E17FF9B1D005C646B /* AKPretty */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 046A778217FF9B1E005C646B /* Build configuration list for PBXNativeTarget "AKPretty" */;
+			buildPhases = (
+				046A775B17FF9B1D005C646B /* Sources */,
+				046A775C17FF9B1D005C646B /* Frameworks */,
+				046A775D17FF9B1D005C646B /* CopyFiles */,
+				046A779917FF9E1C005C646B /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AKPretty;
+			productName = AKPretty;
+			productReference = 046A775F17FF9B1D005C646B /* libAKPretty.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		046A776E17FF9B1E005C646B /* AKPrettyTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 046A778517FF9B1E005C646B /* Build configuration list for PBXNativeTarget "AKPrettyTests" */;
+			buildPhases = (
+				046A776B17FF9B1E005C646B /* Sources */,
+				046A776C17FF9B1E005C646B /* Frameworks */,
+				046A776D17FF9B1E005C646B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				046A777617FF9B1E005C646B /* PBXTargetDependency */,
+			);
+			name = AKPrettyTests;
+			productName = AKPrettyTests;
+			productReference = 046A776F17FF9B1E005C646B /* AKPrettyTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		046A775717FF9B1D005C646B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = AkiraYagi;
+			};
+			buildConfigurationList = 046A775A17FF9B1D005C646B /* Build configuration list for PBXProject "AKPretty" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 046A775617FF9B1D005C646B;
+			productRefGroup = 046A776017FF9B1D005C646B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				046A775E17FF9B1D005C646B /* AKPretty */,
+				046A776E17FF9B1E005C646B /* AKPrettyTests */,
+				046A779417FF9D5F005C646B /* AKPretty-Universal */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		046A776D17FF9B1E005C646B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				046A777D17FF9B1E005C646B /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		046A779817FF9DCA005C646B /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "ASTERISK=*\n# Environment Variables\nFRAMEWORK_NAME=${PROJECT_NAME}\nFRAMEWORK_VERSION=A\nFRAMEWORK_VERSION_NUMBER=1.0\nFRAMEWORK_BUILD_PATH=\"${SRCROOT}/build/${CONFIGURATION}-framework\"\nFRAMEWORK_DIR=\"${FRAMEWORK_BUILD_PATH}/${FRAMEWORK_NAME}.framework\"\nFRAMEWORK_PACKAGE_NAME=\"${FRAMEWORK_NAME}.${FRAMEWORK_VERSION_NUMBER}.zip\"\nDEVICE_BUILD_PATH=\"${SRCROOT}/build/${CONFIGURATION}-iphoneos\"\nSIMULATOR_BUILD_PATH=\"${SRCROOT}/build/${CONFIGURATION}-iphonesimulator\"\n\n# Clean directories\nrm -rf \"${DEVICE_BUILD_PATH}\"\nrm -rf \"${SIMULATOR_BUILD_PATH}\"\nrm -rf \"${FRAMEWORK_BUILD_PATH}\"\n\n# Build simulator and device binaries.\nxcodebuild -project ${PROJECT_NAME}.xcodeproj -sdk iphonesimulator${IPHONEOS_DEPLOYMENT_TARGET} -target \"${PROJECT_NAME}\" -configuration ${CONFIGURATION} clean build\nxcodebuild -project ${PROJECT_NAME}.xcodeproj -sdk iphoneos${IPHONEOS_DEPLOYMENT_TARGET} -target \"${PROJECT_NAME}\" -configuration ${CONFIGURATION} clean build\n\n# create framework directories.\nmkdir -p ${FRAMEWORK_DIR}\nmkdir -p ${FRAMEWORK_DIR}/Versions\nmkdir -p ${FRAMEWORK_DIR}/Versions/${FRAMEWORK_VERSION}\nmkdir -p ${FRAMEWORK_DIR}/Versions/${FRAMEWORK_VERSION}/Resources\nmkdir -p ${FRAMEWORK_DIR}/Versions/${FRAMEWORK_VERSION}/Headers\n\n# create symlinks\nln -s ${FRAMEWORK_DIR}/Versions/${FRAMEWORK_VERSION} ${FRAMEWORK_DIR}/Versions/Current\nln -s ${FRAMEWORK_DIR}/Versions/Current/Headers ${FRAMEWORK_DIR}/Headers\nln -s ${FRAMEWORK_DIR}/Versions/Current/Resources ${FRAMEWORK_DIR}/Resources\nln -s ${FRAMEWORK_DIR}/Versions/Current/${FRAMEWORK_NAME} ${FRAMEWORK_DIR}/${FRAMEWORK_NAME}\n\n# create the universal library\nlipo ${SRCROOT}/build/${CONFIGURATION}-iphoneos/lib${FRAMEWORK_NAME}.a ${SRCROOT}/build/${CONFIGURATION}-iphonesimulator/lib${FRAMEWORK_NAME}.a -create -output ${FRAMEWORK_DIR}/${FRAMEWORK_NAME}\n\n# copy files\ncp ${SRCROOT}/build/${CONFIGURATION}-iphoneos/Headers/${ASTERISK}.h ${FRAMEWORK_DIR}/Headers/\ncp ${SRCROOT}/${PROJECT_NAME}/Resources/Info.plist ${FRAMEWORK_DIR}/Resources\n\n# zip (配布用に QRTechnicals.framework ディレクトリをZIP圧縮するだけなので、不要なら以下はコメントアウト)\ncd ${FRAMEWORK_BUILD_PATH}\nzip -ry ${FRAMEWORK_PACKAGE_NAME} $(basename $FRAMEWORK_DIR)\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		046A775B17FF9B1D005C646B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				046A778D17FF9C01005C646B /* AKPretty0.m in Sources */,
+				046A779317FF9C29005C646B /* AKSimplePretty.m in Sources */,
+				046A776A17FF9B1D005C646B /* AKPretty.m in Sources */,
+				046A779017FF9C1E005C646B /* AKGEPretty.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		046A776B17FF9B1E005C646B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				046A777F17FF9B1E005C646B /* AKPrettyTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		046A777617FF9B1E005C646B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 046A775E17FF9B1D005C646B /* AKPretty */;
+			targetProxy = 046A777517FF9B1E005C646B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		046A777B17FF9B1E005C646B /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				046A777C17FF9B1E005C646B /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		046A778017FF9B1E005C646B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		046A778117FF9B1E005C646B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		046A778317FF9B1E005C646B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/AKPretty.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AKPretty/AKPretty-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = /Headers;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		046A778417FF9B1E005C646B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/AKPretty.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AKPretty/AKPretty-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = /Headers;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		046A778617FF9B1E005C646B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AKPretty/AKPretty-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "AKPrettyTests/AKPrettyTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		046A778717FF9B1E005C646B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AKPretty/AKPretty-Prefix.pch";
+				INFOPLIST_FILE = "AKPrettyTests/AKPrettyTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+		046A779617FF9D5F005C646B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		046A779717FF9D5F005C646B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		046A775A17FF9B1D005C646B /* Build configuration list for PBXProject "AKPretty" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				046A778017FF9B1E005C646B /* Debug */,
+				046A778117FF9B1E005C646B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		046A778217FF9B1E005C646B /* Build configuration list for PBXNativeTarget "AKPretty" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				046A778317FF9B1E005C646B /* Debug */,
+				046A778417FF9B1E005C646B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		046A778517FF9B1E005C646B /* Build configuration list for PBXNativeTarget "AKPrettyTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				046A778617FF9B1E005C646B /* Debug */,
+				046A778717FF9B1E005C646B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		046A779517FF9D5F005C646B /* Build configuration list for PBXAggregateTarget "AKPretty-Universal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				046A779617FF9D5F005C646B /* Debug */,
+				046A779717FF9D5F005C646B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 046A775717FF9B1D005C646B /* Project object */;
+}

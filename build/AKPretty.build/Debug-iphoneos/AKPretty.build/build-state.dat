@@ -1,0 +1,282 @@
+TAKPretty
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-cxdbenvhiulhbtbzsahmwjmumjhh/AKPretty-Prefix.pch.pch AKPretty/AKPretty-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKSimplePretty.o /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty0.o /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty.o /Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKGEPretty.o /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/libAKPretty.a normal armv7
+cPBXCp AKPretty/AKPretty.h build/Debug-iphoneos/include/AKPretty/AKPretty.h
+cCpHeader AKPretty/AKPretty.h build/Debug-iphoneos/Headers/AKPretty.h
+cCpHeader AKPretty/Sources/AKPretty0.h build/Debug-iphoneos/Headers/AKPretty0.h
+cCpHeader AKPretty/Sources/AKGEPretty.h build/Debug-iphoneos/Headers/AKGEPretty.h
+cCpHeader AKPretty/Sources/AKSimplePretty.h build/Debug-iphoneos/Headers/AKSimplePretty.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000521BCCE10000000000000110
+t1377553633
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c000000005240A698000000000000036B
+t1379968664
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005240A699000000000000019E
+t1379968665
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005240A69F0000000000A8EAD0
+t1379968671
+s11070160
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c000000005240A7430000000000000AC9
+t1379968835
+s2761
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty-Prefix.pch
+c00000000524F639D00000000000000B6
+t1380934557
+s182
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.h
+c00000000524F66CD00000000000000D0
+t1380935373
+s208
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m
+c00000000524F66EB0000000000000087
+t1380935403
+s135
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.h
+c00000000524F652500000000000004C3
+t1380934949
+s1219
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m
+c00000000524F65300000000000000800
+t1380934960
+s2048
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.h
+c00000000524F64FF0000000000000A37
+t1380934911
+s2615
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m
+c00000000524F650E00000000000014DC
+t1380934926
+s5340
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.h
+c00000000524F64CE000000000000053C
+t1380934862
+s1340
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m
+c00000000524F64E20000000000000931
+t1380934882
+s2353
+
+N/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKGEPretty.o
+t1380935590
+s8268
+
+N/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty.LinkFileList
+c00000000524F67A500000000000001C5
+t1380935589
+s453
+
+N/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty.o
+t1380935590
+s1904
+
+N/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty0.o
+t1380935590
+s11436
+
+N/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKSimplePretty.o
+t1380935590
+s7496
+
+N/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers/AKGEPretty.h
+t2
+s0
+
+N/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers/AKPretty.h
+t2
+s0
+
+N/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers/AKPretty0.h
+t2
+s0
+
+N/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers/AKSimplePretty.h
+t2
+s0
+
+N/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/include/AKPretty/AKPretty.h
+t2
+s0
+
+N/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/libAKPretty.a
+t2
+s0
+
+N/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-cxdbenvhiulhbtbzsahmwjmumjhh/AKPretty-Prefix.pch.pch
+t1380935589
+s84076
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies616fda259fffb741^537aea259fffb741^---0#1#1#--18"Check dependencies36"60F871B6-B029-42E6-BFD5-6F6CE873F8CF-
+
+CCompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKGEPretty.o /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402628389.975418
+e402628390.027481
+r1
+xCompileC
+xbuild/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKGEPretty.o
+x/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.h
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m192"CompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKGEPretty.o AKPretty/Sources/AKGEPretty.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler3012fa259fffb741^0f0d07269fffb741^---0#0#1#-19%DVTDocumentLocation2@73"file://localhost/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m0000000000000000^3129"CompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKGEPretty.o AKPretty/Sources/AKGEPretty.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKPretty    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-generated-files.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-own-target-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-project-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/DerivedSources/armv7 -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/DerivedSources -F/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-cxdbenvhiulhbtbzsahmwjmumjhh/AKPretty-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKGEPretty.d --serialize-diagnostics /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKGEPretty.dia -c /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m -o /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKGEPretty.o36"A4B280C7-F683-4289-9AD8-D397A7381FB6-
+bDA0C6865-6C6A-4915-A27B-FC6FFBE7902B
+
+CCompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty.o /Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402628389.975267
+e402628390.015612
+r1
+xCompileC
+xbuild/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty.o
+x/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m180"CompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty.o AKPretty/AKPretty.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler560dfa259fffb741^b3cd05269fffb741^---0#0#1#-19%DVTDocumentLocation2@63"file://localhost/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m0000000000000000^3101"CompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty.o AKPretty/AKPretty.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKPretty    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-generated-files.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-own-target-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-project-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/DerivedSources/armv7 -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/DerivedSources -F/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-cxdbenvhiulhbtbzsahmwjmumjhh/AKPretty-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty.d --serialize-diagnostics /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty.dia -c /Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m -o /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty.o36"AD4DA90E-E9A4-43FD-82BA-E619742EB30A-
+bDA0C6865-6C6A-4915-A27B-FC6FFBE7902B
+
+CCompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty0.o /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402628389.975263
+e402628390.041325
+r1
+xCompileC
+xbuild/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty0.o
+x/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m190"CompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty0.o AKPretty/Sources/AKPretty0.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler990dfa259fffb741^79940a269fffb741^---0#0#1#-19%DVTDocumentLocation2@72"file://localhost/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m0000000000000000^3123"CompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty0.o AKPretty/Sources/AKPretty0.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKPretty    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-generated-files.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-own-target-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-project-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/DerivedSources/armv7 -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/DerivedSources -F/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-cxdbenvhiulhbtbzsahmwjmumjhh/AKPretty-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty0.d --serialize-diagnostics /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty0.dia -c /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m -o /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty0.o36"7F9DB853-9B72-4CF3-9DEA-917AD660CC25-
+bDA0C6865-6C6A-4915-A27B-FC6FFBE7902B
+
+CCompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKSimplePretty.o /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402628389.975261
+e402628390.027502
+r1
+xCompileC
+xbuild/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKSimplePretty.o
+x/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.h
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m200"CompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKSimplePretty.o AKPretty/Sources/AKSimplePretty.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler300efa259fffb741^0a1207269fffb741^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m0000000000000000^3153"CompileC build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKSimplePretty.o AKPretty/Sources/AKSimplePretty.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKPretty    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-generated-files.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-own-target-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-project-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/DerivedSources/armv7 -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/DerivedSources -F/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-cxdbenvhiulhbtbzsahmwjmumjhh/AKPretty-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKSimplePretty.d --serialize-diagnostics /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKSimplePretty.dia -c /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m -o /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKSimplePretty.o36"E4B2A886-4F49-456E-AF77-2D9B289A3F72-
+bDA0C6865-6C6A-4915-A27B-FC6FFBE7902B
+
+CCpHeader AKPretty/AKPretty.h build/Debug-iphoneos/Headers/AKPretty.h
+s402628390.079531
+e402628390.083892
+r1
+xCpHeader
+xAKPretty/AKPretty.h
+xbuild/Debug-iphoneos/Headers/AKPretty.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy build/Debug-iphoneos/Headers/AKPretty.h68"CpHeader AKPretty/AKPretty.h build/Debug-iphoneos/Headers/AKPretty.h5fb314269fffb741^9a7a15269fffb741^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers/AKPretty.h0038f029dfffdf42^321"CpHeader AKPretty/AKPretty.h build/Debug-iphoneos/Headers/AKPretty.h    cd /Users/yagi/GitHub/AKPretty    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.h /Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers36"D5C24B5A-1867-44D4-A37A-748D88A5069A-
+bDA0C6865-6C6A-4915-A27B-FC6FFBE7902B
+
+CCpHeader AKPretty/Sources/AKGEPretty.h build/Debug-iphoneos/Headers/AKGEPretty.h
+s402628390.079571
+e402628390.087333
+r1
+xCpHeader
+xAKPretty/Sources/AKGEPretty.h
+xbuild/Debug-iphoneos/Headers/AKGEPretty.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/Debug-iphoneos/Headers/AKGEPretty.h80"CpHeader AKPretty/Sources/AKGEPretty.h build/Debug-iphoneos/Headers/AKGEPretty.hc0b414269fffb741^815c16269fffb741^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers/AKGEPretty.h0038f029dfffdf42^343"CpHeader AKPretty/Sources/AKGEPretty.h build/Debug-iphoneos/Headers/AKGEPretty.h    cd /Users/yagi/GitHub/AKPretty    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.h /Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers36"D1728E8A-4EB0-44C8-8B8C-876555C2BB77-
+bDA0C6865-6C6A-4915-A27B-FC6FFBE7902B
+
+CCpHeader AKPretty/Sources/AKPretty0.h build/Debug-iphoneos/Headers/AKPretty0.h
+s402628390.079543
+e402628390.082924
+r1
+xCpHeader
+xAKPretty/Sources/AKPretty0.h
+xbuild/Debug-iphoneos/Headers/AKPretty0.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/Debug-iphoneos/Headers/AKPretty0.h78"CpHeader AKPretty/Sources/AKPretty0.h build/Debug-iphoneos/Headers/AKPretty0.hc8b214269fffb741^083b15269fffb741^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers/AKPretty0.h0038f029dfffdf42^340"CpHeader AKPretty/Sources/AKPretty0.h build/Debug-iphoneos/Headers/AKPretty0.h    cd /Users/yagi/GitHub/AKPretty    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.h /Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers36"5FB51F4F-224D-4FB0-817D-B00BADF90616-
+bDA0C6865-6C6A-4915-A27B-FC6FFBE7902B
+
+CCpHeader AKPretty/Sources/AKSimplePretty.h build/Debug-iphoneos/Headers/AKSimplePretty.h
+s402628390.079754
+e402628390.084991
+r1
+xCpHeader
+xAKPretty/Sources/AKSimplePretty.h
+xbuild/Debug-iphoneos/Headers/AKSimplePretty.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphoneos/Headers/AKSimplePretty.h88"CpHeader AKPretty/Sources/AKSimplePretty.h build/Debug-iphoneos/Headers/AKSimplePretty.hc8b614269fffb741^b1c215269fffb741^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers/AKSimplePretty.h0038f029dfffdf42^355"CpHeader AKPretty/Sources/AKSimplePretty.h build/Debug-iphoneos/Headers/AKSimplePretty.h    cd /Users/yagi/GitHub/AKPretty    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.h /Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers36"471DE6A7-222E-4280-A3FA-DA766379A997-
+bDA0C6865-6C6A-4915-A27B-FC6FFBE7902B
+
+CLibtool /Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/libAKPretty.a normal armv7
+s402628390.049535
+e402628390.059626
+r1
+xLibtool
+x/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/libAKPretty.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty.o has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Libtool build/Debug-iphoneos/libAKPretty.a normal armv755"Libtool build/Debug-iphoneos/libAKPretty.a normal armv7d9ec0c269fffb741^28450f269fffb741^-387"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty.o has no symbols-0#0#1#--648"Libtool build/Debug-iphoneos/libAKPretty.a normal armv7    cd /Users/yagi/GitHub/AKPretty    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos -filelist /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty.LinkFileList -ObjC -framework Foundation -o /Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/libAKPretty.a36"F4BF372C-99CF-492F-8AC5-25173B9D6F1E-
+bDA0C6865-6C6A-4915-A27B-FC6FFBE7902B
+
+CPBXCp AKPretty/AKPretty.h build/Debug-iphoneos/include/AKPretty/AKPretty.h
+s402628390.067993
+e402628390.071455
+r1
+xPBXCp
+xAKPretty/AKPretty.h
+xbuild/Debug-iphoneos/include/AKPretty/AKPretty.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Debug-iphoneos/include/AKPretty/AKPretty.h74"PBXCp AKPretty/AKPretty.h build/Debug-iphoneos/include/AKPretty/AKPretty.hafb311269fffb741^994b12269fffb741^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/include/AKPretty/AKPretty.h0038f029dfffdf42^336"PBXCp AKPretty/AKPretty.h build/Debug-iphoneos/include/AKPretty/AKPretty.h    cd /Users/yagi/GitHub/AKPretty    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.h /Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/include/AKPretty36"A2E08070-0C0E-4BED-A32B-BE8B85C6E2C7-
+bDA0C6865-6C6A-4915-A27B-FC6FFBE7902B
+
+CProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-cxdbenvhiulhbtbzsahmwjmumjhh/AKPretty-Prefix.pch.pch AKPretty/AKPretty-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402628389.919518
+e402628389.967065
+r1
+xProcessPCH
+x/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-cxdbenvhiulhbtbzsahmwjmumjhh/AKPretty-Prefix.pch.pch
+xAKPretty/AKPretty-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile AKPretty/AKPretty-Prefix.pch310"ProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-cxdbenvhiulhbtbzsahmwjmumjhh/AKPretty-Prefix.pch.pch AKPretty/AKPretty-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler96b3eb259fffb741^6490f7259fffb741^---0#0#1#-19%DVTDocumentLocation2@72"file://localhost/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty-Prefix.pch0000000000000000^3309"ProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-cxdbenvhiulhbtbzsahmwjmumjhh/AKPretty-Prefix.pch.pch AKPretty/AKPretty-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKPretty    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-generated-files.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-own-target-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/AKPretty-project-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/DerivedSources/armv7 -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/DerivedSources -F/Users/yagi/GitHub/AKPretty/build/Debug-iphoneos --serialize-diagnostics /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-cxdbenvhiulhbtbzsahmwjmumjhh/AKPretty-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-cxdbenvhiulhbtbzsahmwjmumjhh/AKPretty-Prefix.pch.d -c /Users/yagi/GitHub/AKPretty/AKPretty/AKPretty-Prefix.pch -o /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-cxdbenvhiulhbtbzsahmwjmumjhh/AKPretty-Prefix.pch.pch36"D413CC9F-389E-4761-A822-947946AE489F-
+bDA0C6865-6C6A-4915-A27B-FC6FFBE7902B
+

@@ -1,0 +1,11 @@
+00000000524f652500000000000004c3 5179baebcec832c9eefd719ec2b40008 ffffffffffffffffffffffffffffffff 0 /Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers/AKGEPretty.h
+00000000524f64ce000000000000053c 907494fc619d28fe24d4799bd5b067bc ffffffffffffffffffffffffffffffff 0 /Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers/AKSimplePretty.h
+00000000524f66cd00000000000000d0 b0d4833037c53b2056e3c47ca83858c6 ffffffffffffffffffffffffffffffff 0 /Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers/AKPretty.h
+00000000524f64ff0000000000000a37 59ff609d70b74fb599910df40cd4550a ffffffffffffffffffffffffffffffff 0 /Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/Headers/AKPretty0.h
+00000000524f66cd00000000000000d0 1a95267cabdc5746f2a27c5da7e6edf4 ffffffffffffffffffffffffffffffff 0 /Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/include/AKPretty/AKPretty.h
+ab2f6b0c87d81211a2c0b523f189fb09 5b5d4439ae6fb9af5fdbd403cba848e2 ffffffffffffffffffffffffffffffff 0 /Users/yagi/GitHub/AKPretty/build/Debug-iphoneos/libAKPretty.a
+d4eac70d8efcfcf6f33def34308c30dc 0843b1399df23a79bb7923b2800bc0ed ffffffffffffffffffffffffffffffff 8268 /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKGEPretty.o
+d4eac70d8efcfd2cf33def34308c3e28 916a550f4b3c26499957e67b57956a96 ffffffffffffffffffffffffffffffff 1904 /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty.o
+d4eac70d8efcfd1df33def34308c3123 a7b2d6b73d430aa8e47575cb1f2c310a ffffffffffffffffffffffffffffffff 7496 /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKSimplePretty.o
+d4eac70ddcb399d3f33def34308c341f 95b4598d6c0e6c46649b0521399381b5 ffffffffffffffffffffffffffffffff 11436 /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphoneos/AKPretty.build/Objects-normal/armv7/AKPretty0.o
+00000000000001da0000000000000b57 d4eac70d8efcfcf6f33def34308c357f ffffffffffffffffffffffffffffffff 84076 /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-cxdbenvhiulhbtbzsahmwjmumjhh/AKPretty-Prefix.pch.pch

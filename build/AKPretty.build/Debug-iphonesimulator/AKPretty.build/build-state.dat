@@ -1,0 +1,282 @@
+TAKPretty
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-eqcaaivffphiakfvryhojhrzsfsv/AKPretty-Prefix.pch.pch AKPretty/AKPretty-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty0.o /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKSimplePretty.o /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty.o /Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKGEPretty.o /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/libAKPretty.a normal x86_64
+cPBXCp AKPretty/AKPretty.h build/Debug-iphonesimulator/include/AKPretty/AKPretty.h
+cCpHeader AKPretty/Sources/AKPretty0.h build/Debug-iphonesimulator/Headers/AKPretty0.h
+cCpHeader AKPretty/AKPretty.h build/Debug-iphonesimulator/Headers/AKPretty.h
+cCpHeader AKPretty/Sources/AKGEPretty.h build/Debug-iphonesimulator/Headers/AKGEPretty.h
+cCpHeader AKPretty/Sources/AKSimplePretty.h build/Debug-iphonesimulator/Headers/AKSimplePretty.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000521BCCE50000000000000176
+t1377553637
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005240A6D300000000000003B5
+t1379968723
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005215ABE7000000000000019E
+t1377151975
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005240A6EC000000000088B570
+t1379968748
+s8959344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c000000005240A7430000000000000AC9
+t1379968835
+s2761
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty-Prefix.pch
+c00000000524F639D00000000000000B6
+t1380934557
+s182
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.h
+c00000000524F66CD00000000000000D0
+t1380935373
+s208
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m
+c00000000524F66EB0000000000000087
+t1380935403
+s135
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.h
+c00000000524F652500000000000004C3
+t1380934949
+s1219
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m
+c00000000524F65300000000000000800
+t1380934960
+s2048
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.h
+c00000000524F64FF0000000000000A37
+t1380934911
+s2615
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m
+c00000000524F650E00000000000014DC
+t1380934926
+s5340
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.h
+c00000000524F64CE000000000000053C
+t1380934862
+s1340
+
+N/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m
+c00000000524F64E20000000000000931
+t1380934882
+s2353
+
+N/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKGEPretty.o
+t1380935589
+s8952
+
+N/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty.LinkFileList
+c00000000524F67A400000000000001E5
+t1380935588
+s485
+
+N/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty.o
+t1380935589
+s1936
+
+N/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty0.o
+t1380935589
+s12992
+
+N/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKSimplePretty.o
+t1380935589
+s8244
+
+N/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/Headers/AKGEPretty.h
+t2
+s0
+
+N/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/Headers/AKPretty.h
+t2
+s0
+
+N/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/Headers/AKPretty0.h
+t2
+s0
+
+N/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/Headers/AKSimplePretty.h
+t2
+s0
+
+N/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/include/AKPretty/AKPretty.h
+t2
+s0
+
+N/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/libAKPretty.a
+t2
+s0
+
+N/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-eqcaaivffphiakfvryhojhrzsfsv/AKPretty-Prefix.pch.pch
+t1380935589
+s112980
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1a16ef249fffb741^34d9f7249fffb741^---0#1#1#--18"Check dependencies36"13283ACB-91C7-4B7E-A595-EB33244A7BC7-
+
+CCompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKGEPretty.o /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402628389.042969
+e402628389.104483
+r1
+xCompileC
+xbuild/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKGEPretty.o
+x/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.h
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m201"CompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKGEPretty.o AKPretty/Sources/AKGEPretty.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3b8a0b259fffb741^a0c11a259fffb741^---0#0#1#-19%DVTDocumentLocation2@73"file://localhost/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m0000000000000000^4187"CompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKGEPretty.o AKPretty/Sources/AKGEPretty.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKPretty    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-generated-files.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-own-target-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-project-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/DerivedSources/x86_64 -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/DerivedSources -F/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-eqcaaivffphiakfvryhojhrzsfsv/AKPretty-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKGEPretty.d --serialize-diagnostics /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKGEPretty.dia -c /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.m -o /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKGEPretty.o36"10F38F75-CAD2-4454-8F11-5C5D34821B4A-
+b37DC9558-6C17-4046-A678-8B1B2E40EEE0
+
+CCompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty.o /Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402628389.042434
+e402628389.103351
+r1
+xCompileC
+xbuild/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty.o
+x/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m189"CompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty.o AKPretty/AKPretty.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0e6a0b259fffb741^d8bc1a259fffb741^---0#0#1#-19%DVTDocumentLocation2@63"file://localhost/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m0000000000000000^4159"CompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty.o AKPretty/AKPretty.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKPretty    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-generated-files.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-own-target-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-project-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/DerivedSources/x86_64 -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/DerivedSources -F/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-eqcaaivffphiakfvryhojhrzsfsv/AKPretty-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty.d --serialize-diagnostics /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty.dia -c /Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.m -o /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty.o36"469BD076-19B6-49B6-AE91-316111487848-
+b37DC9558-6C17-4046-A678-8B1B2E40EEE0
+
+CCompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty0.o /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402628389.042227
+e402628389.107518
+r1
+xCompileC
+xbuild/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty0.o
+x/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m199"CompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty0.o AKPretty/Sources/AKPretty0.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6a680b259fffb741^5d861b259fffb741^---0#0#1#-19%DVTDocumentLocation2@72"file://localhost/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m0000000000000000^4181"CompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty0.o AKPretty/Sources/AKPretty0.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKPretty    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-generated-files.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-own-target-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-project-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/DerivedSources/x86_64 -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/DerivedSources -F/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-eqcaaivffphiakfvryhojhrzsfsv/AKPretty-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty0.d --serialize-diagnostics /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty0.dia -c /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.m -o /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty0.o36"6A32705F-E653-45F2-A80B-2AD20CA8C110-
+b37DC9558-6C17-4046-A678-8B1B2E40EEE0
+
+CCompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKSimplePretty.o /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402628389.042230
+e402628389.105759
+r1
+xCompileC
+xbuild/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKSimplePretty.o
+x/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.h
+d/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m209"CompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKSimplePretty.o AKPretty/Sources/AKSimplePretty.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere86a0b259fffb741^27131b259fffb741^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m0000000000000000^4211"CompileC build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKSimplePretty.o AKPretty/Sources/AKSimplePretty.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKPretty    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-generated-files.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-own-target-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-project-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/DerivedSources/x86_64 -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/DerivedSources -F/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-eqcaaivffphiakfvryhojhrzsfsv/AKPretty-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKSimplePretty.d --serialize-diagnostics /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKSimplePretty.dia -c /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.m -o /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKSimplePretty.o36"9A76531D-8DDF-4420-B73A-7F09042DF7EC-
+b37DC9558-6C17-4046-A678-8B1B2E40EEE0
+
+CCpHeader AKPretty/AKPretty.h build/Debug-iphonesimulator/Headers/AKPretty.h
+s402628389.174115
+e402628389.179952
+r1
+xCpHeader
+xAKPretty/AKPretty.h
+xbuild/Debug-iphonesimulator/Headers/AKPretty.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/Debug-iphonesimulator/Headers/AKPretty.h75"CpHeader AKPretty/AKPretty.h build/Debug-iphonesimulator/Headers/AKPretty.hdcf32c259fffb741^dc112e259fffb741^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/Headers/AKPretty.h0038f029dfffdf42^1213"CpHeader AKPretty/AKPretty.h build/Debug-iphonesimulator/Headers/AKPretty.h    cd /Users/yagi/GitHub/AKPretty    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.h /Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/Headers36"C97B1108-1A68-42B1-B5E3-2B1E4E19BBC1-
+b37DC9558-6C17-4046-A678-8B1B2E40EEE0
+
+CCpHeader AKPretty/Sources/AKGEPretty.h build/Debug-iphonesimulator/Headers/AKGEPretty.h
+s402628389.174123
+e402628389.177735
+r1
+xCpHeader
+xAKPretty/Sources/AKGEPretty.h
+xbuild/Debug-iphonesimulator/Headers/AKGEPretty.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Debug-iphonesimulator/Headers/AKGEPretty.h87"CpHeader AKPretty/Sources/AKGEPretty.h build/Debug-iphonesimulator/Headers/AKGEPretty.h45f32c259fffb741^80802d259fffb741^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/Headers/AKGEPretty.h0038f029dfffdf42^1235"CpHeader AKPretty/Sources/AKGEPretty.h build/Debug-iphonesimulator/Headers/AKGEPretty.h    cd /Users/yagi/GitHub/AKPretty    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKGEPretty.h /Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/Headers36"14121E80-524B-4366-B332-3960DA7FE7B0-
+b37DC9558-6C17-4046-A678-8B1B2E40EEE0
+
+CCpHeader AKPretty/Sources/AKPretty0.h build/Debug-iphonesimulator/Headers/AKPretty0.h
+s402628389.174097
+e402628389.178765
+r1
+xCpHeader
+xAKPretty/Sources/AKPretty0.h
+xbuild/Debug-iphonesimulator/Headers/AKPretty0.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/Debug-iphonesimulator/Headers/AKPretty0.h85"CpHeader AKPretty/Sources/AKPretty0.h build/Debug-iphonesimulator/Headers/AKPretty0.h62f42c259fffb741^f0c32d259fffb741^---0#0#1#-19%DVTDocumentLocation2@91"file://localhost/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/Headers/AKPretty0.h0038f029dfffdf42^1232"CpHeader AKPretty/Sources/AKPretty0.h build/Debug-iphonesimulator/Headers/AKPretty0.h    cd /Users/yagi/GitHub/AKPretty    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKPretty0.h /Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/Headers36"903C1F1A-8673-4BB9-AD39-CEB8CB288F10-
+b37DC9558-6C17-4046-A678-8B1B2E40EEE0
+
+CCpHeader AKPretty/Sources/AKSimplePretty.h build/Debug-iphonesimulator/Headers/AKSimplePretty.h
+s402628389.174302
+e402628389.181231
+r1
+xCpHeader
+xAKPretty/Sources/AKSimplePretty.h
+xbuild/Debug-iphonesimulator/Headers/AKSimplePretty.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/Headers/AKSimplePretty.h95"CpHeader AKPretty/Sources/AKSimplePretty.h build/Debug-iphonesimulator/Headers/AKSimplePretty.hc1012d259fffb741^7c652e259fffb741^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/Headers/AKSimplePretty.h0038f029dfffdf42^1247"CpHeader AKPretty/Sources/AKSimplePretty.h build/Debug-iphonesimulator/Headers/AKSimplePretty.h    cd /Users/yagi/GitHub/AKPretty    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yagi/GitHub/AKPretty/AKPretty/Sources/AKSimplePretty.h /Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/Headers36"2336BA98-12D0-4194-9AF2-A3CC982ECC04-
+b37DC9558-6C17-4046-A678-8B1B2E40EEE0
+
+CLibtool /Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/libAKPretty.a normal x86_64
+s402628389.116318
+e402628389.153431
+r1
+xLibtool
+x/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/libAKPretty.a
+xnormal
+xx86_64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty.o has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Libtool build/Debug-iphonesimulator/libAKPretty.a normal x86_6463"Libtool build/Debug-iphonesimulator/libAKPretty.a normal x86_6496061e259fffb741^cf4927259fffb741^-395"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty.o has no symbols-0#0#1#--1571"Libtool build/Debug-iphonesimulator/libAKPretty.a normal x86_64    cd /Users/yagi/GitHub/AKPretty    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator -filelist /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/Objects-normal/x86_64/AKPretty.LinkFileList -ObjC -framework Foundation -o /Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/libAKPretty.a36"4F27FF51-917F-4A30-B9BD-835FC7D1A5AE-
+b37DC9558-6C17-4046-A678-8B1B2E40EEE0
+
+CPBXCp AKPretty/AKPretty.h build/Debug-iphonesimulator/include/AKPretty/AKPretty.h
+s402628389.161829
+e402628389.165550
+r1
+xPBXCp
+xAKPretty/AKPretty.h
+xbuild/Debug-iphonesimulator/include/AKPretty/AKPretty.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/include/AKPretty/AKPretty.h81"PBXCp AKPretty/AKPretty.h build/Debug-iphonesimulator/include/AKPretty/AKPretty.h21cc29259fffb741^a2602a259fffb741^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/include/AKPretty/AKPretty.h0038f029dfffdf42^1228"PBXCp AKPretty/AKPretty.h build/Debug-iphonesimulator/include/AKPretty/AKPretty.h    cd /Users/yagi/GitHub/AKPretty    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yagi/GitHub/AKPretty/AKPretty/AKPretty.h /Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/include/AKPretty36"C741477B-ABBD-489B-9BCA-1FEF59B428C7-
+b37DC9558-6C17-4046-A678-8B1B2E40EEE0
+
+CProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-eqcaaivffphiakfvryhojhrzsfsv/AKPretty-Prefix.pch.pch AKPretty/AKPretty-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402628388.971519
+e402628389.033437
+r1
+xProcessPCH
+x/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-eqcaaivffphiakfvryhojhrzsfsv/AKPretty-Prefix.pch.pch
+xAKPretty/AKPretty-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile AKPretty/AKPretty-Prefix.pch311"ProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-eqcaaivffphiakfvryhojhrzsfsv/AKPretty-Prefix.pch.pch AKPretty/AKPretty-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0a14f9249fffb741^218f08259fffb741^---0#0#1#-19%DVTDocumentLocation2@72"file://localhost/Users/yagi/GitHub/AKPretty/AKPretty/AKPretty-Prefix.pch0000000000000000^4335"ProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-eqcaaivffphiakfvryhojhrzsfsv/AKPretty-Prefix.pch.pch AKPretty/AKPretty-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKPretty    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-generated-files.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-own-target-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/AKPretty-project-headers.hmap -I/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/DerivedSources/x86_64 -I/Users/yagi/GitHub/AKPretty/build/AKPretty.build/Debug-iphonesimulator/AKPretty.build/DerivedSources -F/Users/yagi/GitHub/AKPretty/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-eqcaaivffphiakfvryhojhrzsfsv/AKPretty-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-eqcaaivffphiakfvryhojhrzsfsv/AKPretty-Prefix.pch.d -c /Users/yagi/GitHub/AKPretty/AKPretty/AKPretty-Prefix.pch -o /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/5.0-5A1413/Xcode/SharedPrecompiledHeaders/AKPretty-Prefix-eqcaaivffphiakfvryhojhrzsfsv/AKPretty-Prefix.pch.pch36"2B3334A9-977F-4FC7-BD2F-1AAB4018A0C4-
+b37DC9558-6C17-4046-A678-8B1B2E40EEE0
+
